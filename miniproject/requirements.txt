@@ -11,5 +11,5 @@ nltk==3.7
 regex==2022.10.31
 SQLAlchemy==1.4.43
 tqdm==4.64.1
-Werkzeug==2.2.2
+Werkzeug==3.1.6
 zipp==3.10.0
