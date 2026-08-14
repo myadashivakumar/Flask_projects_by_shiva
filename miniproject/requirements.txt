@@ -7,7 +7,7 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 joblib==1.2.0
 MarkupSafe==2.1.1
-nltk==3.7
+nltk==3.10.0
 regex==2022.10.31
 SQLAlchemy==1.4.43
 tqdm==4.64.1
